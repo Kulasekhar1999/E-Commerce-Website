@@ -8,7 +8,6 @@ import Footer from './Components/Footer';
 import Contact from './Components/Contact';
 
 
-
 const App = () => {
   return (
     <div>

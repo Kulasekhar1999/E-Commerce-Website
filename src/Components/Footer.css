@@ -3,23 +3,23 @@
   
   .footer-container {
     display: flex;
-    justify-content: space-between; /* Distribute the space between the elements */
-    align-items: center; /* Align the items in the center vertically */
-    flex-wrap: wrap; /* Ensures the content wraps on smaller screens */
+    justify-content: space-between;
+    align-items: center; 
+    flex-wrap: wrap; 
   }
   
   .footer-container p {
-    margin: 0; /* Remove default margin */
+    margin: 0; 
   }
   
   .footer-links {
     display: flex;
-    gap: 15px; /* Space between the links */
+    gap: 15px; 
   }
   
   .footer-links a {
     text-decoration: none;
-    color: #007bff; /* Adjust link color */
+    color: #007bff;
     font-weight: bold;
   }
   
