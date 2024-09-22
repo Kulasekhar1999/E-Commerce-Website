@@ -1,0 +1,69 @@
+
+
+header {
+    background-color: #f8f8f8; /* Optional: Set background color */
+    padding: 20px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); /* Optional: Add subtle shadow */
+  }
+  
+  .header-container {
+    display: flex;
+    justify-content: space-between; /* Aligns items across the header */
+    align-items: center; /* Vertically centers the elements */
+    max-width: 5000px; /* Optional: Limit the width */
+    margin: 75% auto; /* Center the header */
+  }
+  
+  .logo {
+    font-size: 24px;
+    font-weight: bold;
+  }
+  
+  .nav-list {
+    display: flex; /* Aligns the navigation items in one line */
+    list-style: none; /* Remove bullet points from list */
+    margin: 5px;
+    padding-left: 200px;
+  
+  }
+  
+  .nav-list li {
+    margin: 0 15px; /* Adds space between navigation items */
+  }
+  
+  .nav-list a {
+    text-decoration: none;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .nav-list a:hover {
+    color: #007bff; /* Change color on hover */
+  }
+  
+  .cta-button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  .cta-button:hover {
+    background-color: #0056b3; /* Darken the button on hover */
+  }
+  
+  button{
+    background-color: violet;
+  color: black;
+  padding: 10px 20px;
+  border-radius: 10px;
+  }
+  #main{
+    text-align: center;
+  }
+  .nk{
+    text-align: center;
+    padding-left: 0px;
+  }
